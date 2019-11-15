@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "287628627422",
+    "firebase_url": "https://find-my-car-ecad9.firebaseio.com",
+    "project_id": "find-my-car-ecad9",
+    "storage_bucket": "find-my-car-ecad9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287628627422:android:e614c52a37d3ae3c",
+        "android_client_info": {
+          "package_name": "com.example.usmansh.findmycar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287628627422-d8tnfhqdpce0jl69h5vk6f4upqakqsku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR1UD0slnPb5fvxsnTuoU2iU-XIdLblM0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
